@@ -4,6 +4,7 @@
 <h2>Installation:</h2>
 <p><b>Clone or Download</b></p>
 <p>Install dependencies by </p>
+<pre><code>cd react-youtube-search</code></pre>
 <pre><code>npm install</code></pre>
 Then
 <pre><code>npm start</code></pre>
